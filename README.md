@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+| [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## String
 | Problem Name | Difficulty |
