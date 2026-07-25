@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
