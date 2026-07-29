@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
