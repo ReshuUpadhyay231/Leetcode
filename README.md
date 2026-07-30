@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
