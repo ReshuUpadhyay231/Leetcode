@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Greedy
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
