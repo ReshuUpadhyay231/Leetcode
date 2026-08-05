@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0044-wildcard-matching](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
