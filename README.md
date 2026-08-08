@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -144,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
