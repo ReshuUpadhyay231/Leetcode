@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
