@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
