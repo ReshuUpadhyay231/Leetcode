@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0045-jump-game-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Two Pointers
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Recursion
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 ## Bit Manipulation
@@ -151,5 +155,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
