@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
