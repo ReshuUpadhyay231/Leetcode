@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Divide and Conquer
