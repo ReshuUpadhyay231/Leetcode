@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0045-jump-game-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 ## Depth-First Search
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
