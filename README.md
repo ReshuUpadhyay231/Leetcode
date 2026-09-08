@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0044-wildcard-matching](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
