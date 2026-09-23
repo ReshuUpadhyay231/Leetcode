@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0763-partition-labels](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +184,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
