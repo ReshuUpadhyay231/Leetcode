@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
