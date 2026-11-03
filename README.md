@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ReshuUpadhyay231/Leetcode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## Minimax
